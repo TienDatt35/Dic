@@ -1,0 +1,6 @@
+hi	chao, xin chao
+agreement	sự thoả thuận
+Cancel	huỷ bỏ
+Determine	giai quyet van de
+hello	chao
+bye	tam biet
